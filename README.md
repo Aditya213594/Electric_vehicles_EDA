@@ -1,6 +1,7 @@
 # # Electric Vehicle Exploratory Data Analysis (EDA) Readme
 
-![Electric Vehicle](https://www.istockphoto.com/vector/electric-vehicle-charging-technology-at-parking-area-vector-illustration-gm1295749618-389374593)
+![image](https://github.com/Aditya213594/Electric_vehicles_EDA/assets/110088483/fc8658c3-593d-4009-a03c-35931203cb98)
+
 
 ## Table of Contents
 
